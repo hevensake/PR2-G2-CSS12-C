@@ -16,7 +16,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url('../img/picq.jpg');
+  background: url('picq.jpg');
   background-size: cover;
   background-position: center;
   font-family: 'roboto', sans-serif;
